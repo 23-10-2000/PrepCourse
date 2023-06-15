@@ -1,2 +1,4 @@
 # PrepCourse
-Contexto de lo que se trata, repositorio de prueba 
+Juan David 
+
+repositorio de prueba de como clonar un repositorio
